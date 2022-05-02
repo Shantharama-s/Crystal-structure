@@ -1,0 +1,2 @@
+# Crystal-structure
+In the A and B sites of ABO3 structures, a total of 73 elements have been discovered, leading to numerous oxides of the perovskite type. Electronegativity, ionic radius, valence, and bond lengths of A-O and B-O pairs have all been found as features that can be used to predict crystal structure a priori. It's a classification problem, and the investigation resulted in the identification of probable distortion structures. The random forest and deep neural network both had an accuracy of 80%.
